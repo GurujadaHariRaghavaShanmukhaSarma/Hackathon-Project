@@ -1,0 +1,225 @@
+<html>
+<head>
+<title>TestNG:  Test2</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test2</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>29/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sun Apr 07 22:34:05 IST 2024</td>
+</tr>
+<tr><td>Total time:</td><td>180 seconds (180668 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='TestCases.TC_04_Hotels_Section.click_on_upto4rooms()'><b>click_on_upto4rooms</b><br>Test class: TestCases.TC_04_Hotels_Section</td>
+<td></td>
+<td>0</td>
+<td>TestCases.TC_04_Hotels_Section@5f8edcc5</td></tr>
+<tr>
+<td title='TestCases.TC_01_LowestCabDetails.user_selecting_suv()'><b>user_selecting_suv</b><br>Test class: TestCases.TC_01_LowestCabDetails</td>
+<td></td>
+<td>0</td>
+<td>TestCases.TC_01_LowestCabDetails@10d68fcd</td></tr>
+<tr>
+<td title='TestCases.TC_04_Hotels_Section.click_on_roomsandguests()'><b>click_on_roomsandguests</b><br>Test class: TestCases.TC_04_Hotels_Section</td>
+<td></td>
+<td>0</td>
+<td>TestCases.TC_04_Hotels_Section@5f8edcc5</td></tr>
+<tr>
+<td title='TestCases.TC_02_SendingInvalidEmail.user_clicking_giftcardsoption()'><b>user_clicking_giftcardsoption</b><br>Test class: TestCases.TC_02_SendingInvalidEmail</td>
+<td></td>
+<td>2</td>
+<td>TestCases.TC_02_SendingInvalidEmail@117e949d</td></tr>
+<tr>
+<td title='TestCases.TC_02_SendingInvalidEmail.capture_warning_msg()'><b>capture_warning_msg</b><br>Test class: TestCases.TC_02_SendingInvalidEmail</td>
+<td></td>
+<td>0</td>
+<td>TestCases.TC_02_SendingInvalidEmail@117e949d</td></tr>
+<tr>
+<td title='TestCases.TC_01_LowestCabDetails.user_selecting_to()'><b>user_selecting_to</b><br>Test class: TestCases.TC_01_LowestCabDetails</td>
+<td></td>
+<td>3</td>
+<td>TestCases.TC_01_LowestCabDetails@10d68fcd</td></tr>
+<tr>
+<td title='TestCases.TC_01_LowestCabDetails.user_selecting_time()'><b>user_selecting_time</b><br>Test class: TestCases.TC_01_LowestCabDetails</td>
+<td></td>
+<td>1</td>
+<td>TestCases.TC_01_LowestCabDetails@10d68fcd</td></tr>
+<tr>
+<td title='TestCases.TC_01_LowestCabDetails.user_selecting_lowtohighprice()'><b>user_selecting_lowtohighprice</b><br>Test class: TestCases.TC_01_LowestCabDetails</td>
+<td></td>
+<td>4</td>
+<td>TestCases.TC_01_LowestCabDetails@10d68fcd</td></tr>
+<tr>
+<td title='TestCases.TC_03_SendingValidEmail.user_clicks_on_buynow()'><b>user_clicks_on_buynow</b><br>Test class: TestCases.TC_03_SendingValidEmail</td>
+<td></td>
+<td>4</td>
+<td>TestCases.TC_03_SendingValidEmail@6db9f5a4</td></tr>
+<tr>
+<td title='TestCases.TC_01_LowestCabDetails.click_on_oneway_outstation()'><b>click_on_oneway_outstation</b><br>Test class: TestCases.TC_01_LowestCabDetails</td>
+<td></td>
+<td>0</td>
+<td>TestCases.TC_01_LowestCabDetails@10d68fcd</td></tr>
+<tr>
+<td title='TestCases.TC_02_SendingInvalidEmail.user_clicks_on_buynow()'><b>user_clicks_on_buynow</b><br>Test class: TestCases.TC_02_SendingInvalidEmail</td>
+<td></td>
+<td>0</td>
+<td>TestCases.TC_02_SendingInvalidEmail@117e949d</td></tr>
+<tr>
+<td title='TestCases.TC_03_SendingValidEmail.user_clicking_wedding_giftcard()'><b>user_clicking_wedding_giftcard</b><br>Test class: TestCases.TC_03_SendingValidEmail</td>
+<td></td>
+<td>2</td>
+<td>TestCases.TC_03_SendingValidEmail@6db9f5a4</td></tr>
+<tr>
+<td title='TestCases.TC_02_SendingInvalidEmail.user_clicking_wedding_giftcard()'><b>user_clicking_wedding_giftcard</b><br>Test class: TestCases.TC_02_SendingInvalidEmail</td>
+<td></td>
+<td>2</td>
+<td>TestCases.TC_02_SendingInvalidEmail@117e949d</td></tr>
+<tr>
+<td title='TestCases.TC_04_Hotels_Section.click_on_adultsdropdown_printallnumbers()'><b>click_on_adultsdropdown_printallnumbers</b><br>Test class: TestCases.TC_04_Hotels_Section</td>
+<td></td>
+<td>3</td>
+<td>TestCases.TC_04_Hotels_Section@5f8edcc5</td></tr>
+<tr>
+<td title='TestCases.TC_01_LowestCabDetails.user_selecting_from()'><b>user_selecting_from</b><br>Test class: TestCases.TC_01_LowestCabDetails</td>
+<td></td>
+<td>4</td>
+<td>TestCases.TC_01_LowestCabDetails@10d68fcd</td></tr>
+<tr>
+<td title='TestCases.TC_03_SendingValidEmail.user_clicking_giftcardsoption()'><b>user_clicking_giftcardsoption</b><br>Test class: TestCases.TC_03_SendingValidEmail</td>
+<td></td>
+<td>2</td>
+<td>TestCases.TC_03_SendingValidEmail@6db9f5a4</td></tr>
+<tr>
+<td title='TestCases.TC_01_LowestCabDetails.user_selecting_date()'><b>user_selecting_date</b><br>Test class: TestCases.TC_01_LowestCabDetails</td>
+<td></td>
+<td>0</td>
+<td>TestCases.TC_01_LowestCabDetails@10d68fcd</td></tr>
+<tr>
+<td title='TestCases.TC_02_SendingInvalidEmail.user_gives_senders_data_with_invalid_email()'><b>user_gives_senders_data_with_invalid_email</b><br>Test class: TestCases.TC_02_SendingInvalidEmail</td>
+<td></td>
+<td>1</td>
+<td>TestCases.TC_02_SendingInvalidEmail@117e949d</td></tr>
+<tr>
+<td title='TestCases.TC_01_LowestCabDetails.click_on_caboption()'><b>click_on_caboption</b><br>Test class: TestCases.TC_01_LowestCabDetails</td>
+<td></td>
+<td>0</td>
+<td>TestCases.TC_01_LowestCabDetails@10d68fcd</td></tr>
+<tr>
+<td title='TestCases.TC_03_SendingValidEmail.click_on_caboption()'><b>click_on_caboption</b><br>Test class: TestCases.TC_03_SendingValidEmail</td>
+<td></td>
+<td>0</td>
+<td>TestCases.TC_03_SendingValidEmail@6db9f5a4</td></tr>
+<tr>
+<td title='TestCases.TC_03_SendingValidEmail.user_clicking_moredropdown()'><b>user_clicking_moredropdown</b><br>Test class: TestCases.TC_03_SendingValidEmail</td>
+<td></td>
+<td>0</td>
+<td>TestCases.TC_03_SendingValidEmail@6db9f5a4</td></tr>
+<tr>
+<td title='TestCases.TC_03_SendingValidEmail.user_gives_senders_data_with_valid_email()'><b>user_gives_senders_data_with_valid_email</b><br>Test class: TestCases.TC_03_SendingValidEmail</td>
+<td></td>
+<td>2</td>
+<td>TestCases.TC_03_SendingValidEmail@6db9f5a4</td></tr>
+<tr>
+<td title='TestCases.TC_01_LowestCabDetails.user_clicking_search()'><b>user_clicking_search</b><br>Test class: TestCases.TC_01_LowestCabDetails</td>
+<td></td>
+<td>6</td>
+<td>TestCases.TC_01_LowestCabDetails@10d68fcd</td></tr>
+<tr>
+<td title='TestCases.TC_01_LowestCabDetails.lowest_cab_details()'><b>lowest_cab_details</b><br>Test class: TestCases.TC_01_LowestCabDetails</td>
+<td></td>
+<td>0</td>
+<td>TestCases.TC_01_LowestCabDetails@10d68fcd</td></tr>
+<tr>
+<td title='TestCases.TC_04_Hotels_Section.click_on_hotels_icon()'><b>click_on_hotels_icon</b><br>Test class: TestCases.TC_04_Hotels_Section</td>
+<td></td>
+<td>0</td>
+<td>TestCases.TC_04_Hotels_Section@5f8edcc5</td></tr>
+<tr>
+<td title='TestCases.TC_02_SendingInvalidEmail.click_on_caboption()'><b>click_on_caboption</b><br>Test class: TestCases.TC_02_SendingInvalidEmail</td>
+<td></td>
+<td>0</td>
+<td>TestCases.TC_02_SendingInvalidEmail@117e949d</td></tr>
+<tr>
+<td title='TestCases.TC_02_SendingInvalidEmail.user_clicking_moredropdown()'><b>user_clicking_moredropdown</b><br>Test class: TestCases.TC_02_SendingInvalidEmail</td>
+<td></td>
+<td>0</td>
+<td>TestCases.TC_02_SendingInvalidEmail@117e949d</td></tr>
+<tr>
+<td title='TestCases.TC_02_SendingInvalidEmail.user_clicking_search()'><b>user_clicking_search</b><br>Test class: TestCases.TC_02_SendingInvalidEmail</td>
+<td></td>
+<td>5</td>
+<td>TestCases.TC_02_SendingInvalidEmail@117e949d</td></tr>
+<tr>
+<td title='TestCases.TC_03_SendingValidEmail.user_clicking_search()'><b>user_clicking_search</b><br>Test class: TestCases.TC_03_SendingValidEmail</td>
+<td></td>
+<td>6</td>
+<td>TestCases.TC_03_SendingValidEmail@6db9f5a4</td></tr>
+</table><p>
+</body>
+</html>

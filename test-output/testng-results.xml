@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-09T21:48:07 IST" name="Suite" finished-at="2024-04-09T21:49:02 IST" duration-ms="55100">
+    <groups>
+      <group name="smoke">
+        <method signature="TC_01_LowestCabDetails.click_on_caboption()[pri:1, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" name="click_on_caboption" class="TestCases.TC_01_LowestCabDetails"/>
+        <method signature="TC_01_LowestCabDetails.click_on_oneway_outstation()[pri:2, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" name="click_on_oneway_outstation" class="TestCases.TC_01_LowestCabDetails"/>
+        <method signature="TC_01_LowestCabDetails.user_selecting_from()[pri:3, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" name="user_selecting_from" class="TestCases.TC_01_LowestCabDetails"/>
+        <method signature="TC_01_LowestCabDetails.user_selecting_to()[pri:4, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" name="user_selecting_to" class="TestCases.TC_01_LowestCabDetails"/>
+        <method signature="TC_01_LowestCabDetails.user_selecting_date()[pri:5, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" name="user_selecting_date" class="TestCases.TC_01_LowestCabDetails"/>
+        <method signature="TC_01_LowestCabDetails.user_selecting_time()[pri:6, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" name="user_selecting_time" class="TestCases.TC_01_LowestCabDetails"/>
+        <method signature="TC_01_LowestCabDetails.user_clicking_search()[pri:7, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" name="user_clicking_search" class="TestCases.TC_01_LowestCabDetails"/>
+        <method signature="TC_01_LowestCabDetails.user_selecting_lowtohighprice()[pri:8, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" name="user_selecting_lowtohighprice" class="TestCases.TC_01_LowestCabDetails"/>
+        <method signature="TC_01_LowestCabDetails.user_selecting_suv()[pri:9, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" name="user_selecting_suv" class="TestCases.TC_01_LowestCabDetails"/>
+        <method signature="TC_01_LowestCabDetails.lowest_cab_details()[pri:10, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" name="lowest_cab_details" class="TestCases.TC_01_LowestCabDetails"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2024-04-09T21:48:07 IST" name="Test1" finished-at="2024-04-09T21:49:02 IST" duration-ms="55100">
+      <class name="TestCases.TC_01_LowestCabDetails">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" started-at="2024-04-09T21:48:08 IST" name="setup" finished-at="2024-04-09T21:48:24 IST" duration-ms="16487" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="click_on_caboption()[pri:1, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" started-at="2024-04-09T21:48:24 IST" name="click_on_caboption" finished-at="2024-04-09T21:48:27 IST" duration-ms="2789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_caboption -->
+        <test-method signature="click_on_oneway_outstation()[pri:2, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" started-at="2024-04-09T21:48:27 IST" name="click_on_oneway_outstation" finished-at="2024-04-09T21:48:28 IST" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_oneway_outstation -->
+        <test-method signature="user_selecting_from()[pri:3, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" started-at="2024-04-09T21:48:28 IST" name="user_selecting_from" finished-at="2024-04-09T21:48:32 IST" duration-ms="4112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_selecting_from -->
+        <test-method signature="user_selecting_to()[pri:4, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" started-at="2024-04-09T21:48:32 IST" name="user_selecting_to" finished-at="2024-04-09T21:48:36 IST" duration-ms="3687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_selecting_to -->
+        <test-method signature="user_selecting_date()[pri:5, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" started-at="2024-04-09T21:48:40 IST" name="user_selecting_date" finished-at="2024-04-09T21:48:41 IST" duration-ms="1696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_selecting_date -->
+        <test-method signature="user_selecting_time()[pri:6, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" started-at="2024-04-09T21:48:42 IST" name="user_selecting_time" finished-at="2024-04-09T21:48:44 IST" duration-ms="2090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_selecting_time -->
+        <test-method signature="user_clicking_search()[pri:7, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" started-at="2024-04-09T21:48:44 IST" name="user_clicking_search" finished-at="2024-04-09T21:48:51 IST" duration-ms="6749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_clicking_search -->
+        <test-method signature="user_selecting_lowtohighprice()[pri:8, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" started-at="2024-04-09T21:48:52 IST" name="user_selecting_lowtohighprice" finished-at="2024-04-09T21:48:56 IST" duration-ms="4712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_selecting_lowtohighprice -->
+        <test-method signature="user_selecting_suv()[pri:9, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" started-at="2024-04-09T21:48:57 IST" name="user_selecting_suv" finished-at="2024-04-09T21:48:57 IST" duration-ms="359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_selecting_suv -->
+        <test-method signature="lowest_cab_details()[pri:10, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" started-at="2024-04-09T21:48:57 IST" name="lowest_cab_details" finished-at="2024-04-09T21:48:57 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lowest_cab_details -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC_01_LowestCabDetails@2df3b89c]" started-at="2024-04-09T21:48:58 IST" name="tearDown" finished-at="2024-04-09T21:49:02 IST" duration-ms="4589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC_01_LowestCabDetails -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

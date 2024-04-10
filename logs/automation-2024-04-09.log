@@ -1,0 +1,708 @@
+16:56:35.827 [main] DEBUG - Save part 'docProps/app.xml'
+16:56:35.834 [main] DEBUG - Save part 'docProps/core.xml'
+16:56:35.835 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+16:56:35.835 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+16:56:35.835 [main] DEBUG - Save part 'xl/styles.xml'
+16:56:35.835 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+16:56:35.836 [main] DEBUG - Save part 'xl/workbook.xml'
+16:56:35.836 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+16:56:35.836 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+16:56:35.837 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+16:56:35.838 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+16:56:35.838 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+16:58:49.265 [main] INFO  - Going to makemytrip home page
+16:58:49.397 [main] INFO  - maximized window
+16:59:00.822 [main] INFO  - Going to makemytrip home page
+16:59:00.961 [main] INFO  - maximized window
+16:59:11.677 [main] INFO  - Going to makemytrip home page
+16:59:11.810 [main] INFO  - maximized window
+16:59:21.480 [main] INFO  - Going to makemytrip home page
+16:59:21.623 [main] INFO  - maximized window
+17:06:58.209 [main] INFO  - Going to makemytrip home page
+17:06:58.325 [main] INFO  - maximized window
+17:07:03.607 [main] INFO  - In the MakeMyTrip Website
+17:07:04.718 [main] INFO  - Clicked on Cabs option
+17:07:04.857 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:07:04.859 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:07:04.860 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:07:05.012 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+17:07:05.014 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+17:07:05.014 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+17:07:05.015 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+17:07:05.015 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+17:07:05.016 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+17:07:05.025 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+17:07:05.025 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+17:07:05.028 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+17:07:05.028 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+17:07:05.029 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+17:07:05.029 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+17:07:05.030 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+17:07:05.030 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+17:07:05.059 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+17:07:05.060 [main] TRACE - Resolving type for handle themefd26doctype
+17:07:05.110 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+17:07:05.120 [main] TRACE - Resolving type for handle ctstylesheet4257type
+17:07:05.124 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+17:07:05.127 [main] TRACE - Resolving type for handle ctfonts6623type
+17:07:05.130 [main] TRACE - Resolving type for handle ctfont14d8type
+17:07:05.133 [main] TRACE - Resolving type for handle ctfills2c6ftype
+17:07:05.134 [main] TRACE - Resolving type for handle ctfill550ctype
+17:07:05.135 [main] TRACE - Resolving type for handle ctborders0d66type
+17:07:05.138 [main] TRACE - Resolving type for handle ctborderf935type
+17:07:05.140 [main] TRACE - Resolving type for handle ctcellxfs1322type
+17:07:05.143 [main] TRACE - Resolving type for handle ctxf97f7type
+17:07:05.147 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+17:07:05.150 [main] TRACE - Resolving type for handle ctdxfsb26atype
+17:07:05.153 [main] TRACE - Resolving type for handle cttablestyles872ftype
+17:07:05.157 [main] TRACE - Resolving type for handle sstf81fdoctype
+17:07:05.164 [main] TRACE - Resolving type for handle ctsst44f3type
+17:07:05.174 [main] TRACE - Resolving type for handle ctrsta472type
+17:07:05.214 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:07:05.214 [main] TRACE - Resolving type for handle workbookec17doctype
+17:07:05.218 [main] TRACE - Resolving type for handle ctworkbook83c3type
+17:07:05.224 [main] TRACE - Resolving type for handle ctsheets49fdtype
+17:07:05.226 [main] TRACE - Resolving type for handle ctsheet4dbetype
+17:07:05.227 [main] TRACE - Resolving type for handle strelationshipid1e94type
+17:07:05.230 [main] TRACE - Resolving type for handle worksheetf539doctype
+17:07:05.232 [main] TRACE - Resolving type for handle ctworksheet530dtype
+17:07:05.241 [main] TRACE - Resolving type for handle ctcols627ctype
+17:07:05.247 [main] TRACE - Resolving type for handle ctsheetdata8408type
+17:07:05.251 [main] TRACE - Resolving type for handle ctrowdd39type
+17:07:05.257 [main] TRACE - Resolving type for handle ctcell842btype
+17:07:05.264 [main] TRACE - Resolving type for handle stcellrefe4e0type
+17:07:05.275 [main] TRACE - Resolving type for handle ctcola95ftype
+17:07:05.319 [main] TRACE - Resolving type for handle stxstringf179type
+17:07:05.326 [main] TRACE - Resolving type for handle stcelltypebf95type
+17:07:05.347 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+17:07:05.354 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+17:07:05.357 [main] TRACE - Resolving type for handle stref90a2type
+17:07:05.406 [main] TRACE - Resolving type for handle propertiesee84doctype
+17:07:05.409 [main] TRACE - Resolving type for handle ctproperties3f10type
+17:07:05.416 [main] TRACE - Resolving type for handle properties288cdoctype
+17:07:05.421 [main] TRACE - Resolving type for handle ctproperties2c18type
+17:07:05.442 [main] DEBUG - Save content types part
+17:07:05.541 [main] DEBUG - Save package relationships
+17:07:05.545 [main] DEBUG - Save part 'docProps/app.xml'
+17:07:05.545 [main] DEBUG - Save part 'docProps/core.xml'
+17:07:05.547 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:07:05.548 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:07:05.548 [main] DEBUG - Save part 'xl/styles.xml'
+17:07:05.548 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:07:05.549 [main] DEBUG - Save part 'xl/workbook.xml'
+17:07:05.550 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:07:05.551 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:07:05.551 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:07:05.555 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:07:05.555 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:07:05.809 [main] INFO  - Clicked one way outstation cab
+17:07:05.815 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:07:05.816 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:07:05.816 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:07:05.830 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:07:05.862 [main] DEBUG - Save content types part
+17:07:05.863 [main] DEBUG - Save package relationships
+17:07:05.864 [main] DEBUG - Save part 'docProps/app.xml'
+17:07:05.864 [main] DEBUG - Save part 'docProps/core.xml'
+17:07:05.865 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:07:05.865 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:07:05.866 [main] DEBUG - Save part 'xl/styles.xml'
+17:07:05.866 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:07:05.866 [main] DEBUG - Save part 'xl/workbook.xml'
+17:07:05.867 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:07:05.867 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:07:05.867 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:07:05.869 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:07:05.869 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:07:09.603 [main] INFO  - Selected Delhi
+17:07:09.610 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:07:09.611 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:07:09.612 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:07:09.625 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:07:09.660 [main] DEBUG - Save content types part
+17:07:09.661 [main] DEBUG - Save package relationships
+17:07:09.662 [main] DEBUG - Save part 'docProps/app.xml'
+17:07:09.663 [main] DEBUG - Save part 'docProps/core.xml'
+17:07:09.663 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:07:09.664 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:07:09.664 [main] DEBUG - Save part 'xl/styles.xml'
+17:07:09.664 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:07:09.664 [main] DEBUG - Save part 'xl/workbook.xml'
+17:07:09.665 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:07:09.666 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:07:09.666 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:07:09.669 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:07:09.669 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:07:13.023 [main] INFO  - Selected Manali
+17:07:13.030 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:07:13.031 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:07:13.031 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:07:13.042 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:07:13.077 [main] DEBUG - Save content types part
+17:07:13.080 [main] DEBUG - Save package relationships
+17:07:13.082 [main] DEBUG - Save part 'docProps/app.xml'
+17:07:13.082 [main] DEBUG - Save part 'docProps/core.xml'
+17:07:13.084 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:07:13.084 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:07:13.085 [main] DEBUG - Save part 'xl/styles.xml'
+17:07:13.085 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:07:13.085 [main] DEBUG - Save part 'xl/workbook.xml'
+17:07:13.086 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:07:13.087 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:07:13.087 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:07:13.088 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:07:13.089 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:07:13.538 [main] INFO  - Selected date
+17:07:13.543 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:07:13.544 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:07:13.544 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:07:13.551 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:07:13.576 [main] DEBUG - Save content types part
+17:07:13.577 [main] DEBUG - Save package relationships
+17:07:13.578 [main] DEBUG - Save part 'docProps/app.xml'
+17:07:13.578 [main] DEBUG - Save part 'docProps/core.xml'
+17:07:13.579 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:07:13.580 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:07:13.580 [main] DEBUG - Save part 'xl/styles.xml'
+17:07:13.580 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:07:13.581 [main] DEBUG - Save part 'xl/workbook.xml'
+17:07:13.582 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:07:13.582 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:07:13.582 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:07:13.584 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:07:13.584 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:07:14.205 [main] INFO  - Selected Time
+17:07:14.210 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:07:14.210 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:07:14.211 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:07:14.219 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:07:14.243 [main] DEBUG - Save content types part
+17:07:14.244 [main] DEBUG - Save package relationships
+17:07:14.245 [main] DEBUG - Save part 'docProps/app.xml'
+17:07:14.245 [main] DEBUG - Save part 'docProps/core.xml'
+17:07:14.246 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:07:14.246 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:07:14.246 [main] DEBUG - Save part 'xl/styles.xml'
+17:07:14.246 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:07:14.247 [main] DEBUG - Save part 'xl/workbook.xml'
+17:07:14.247 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:07:14.248 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:07:14.248 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:07:14.249 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:07:14.250 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:07:16.717 [main] INFO  - Clicked on search button
+17:07:19.725 [main] INFO  - In cabs page
+17:07:19.732 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:07:19.733 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:07:19.734 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:07:19.741 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:07:19.772 [main] DEBUG - Save content types part
+17:07:19.774 [main] DEBUG - Save package relationships
+17:07:19.774 [main] DEBUG - Save part 'docProps/app.xml'
+17:07:19.775 [main] DEBUG - Save part 'docProps/core.xml'
+17:07:19.775 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:07:19.775 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:07:19.776 [main] DEBUG - Save part 'xl/styles.xml'
+17:07:19.776 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:07:19.776 [main] DEBUG - Save part 'xl/workbook.xml'
+17:07:19.777 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:07:19.778 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:07:19.778 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:07:19.782 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:07:19.783 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:07:20.508 [main] INFO  - Selected low to highest price in the sort by dropdown
+17:07:20.515 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:07:20.516 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:07:20.516 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:07:20.525 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:07:20.553 [main] DEBUG - Save content types part
+17:07:20.555 [main] DEBUG - Save package relationships
+17:07:20.556 [main] DEBUG - Save part 'docProps/app.xml'
+17:07:20.557 [main] DEBUG - Save part 'docProps/core.xml'
+17:07:20.558 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:07:20.558 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:07:20.559 [main] DEBUG - Save part 'xl/styles.xml'
+17:07:20.559 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:07:20.560 [main] DEBUG - Save part 'xl/workbook.xml'
+17:07:20.561 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:07:20.562 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:07:20.562 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:07:20.564 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:07:20.565 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:07:20.825 [main] INFO  - Selected SUV Checkbox
+17:07:20.829 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:07:20.829 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:07:20.829 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:07:20.836 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:07:20.851 [main] DEBUG - Save content types part
+17:07:20.852 [main] DEBUG - Save package relationships
+17:07:20.854 [main] DEBUG - Save part 'docProps/app.xml'
+17:07:20.854 [main] DEBUG - Save part 'docProps/core.xml'
+17:07:20.855 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:07:20.855 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:07:20.855 [main] DEBUG - Save part 'xl/styles.xml'
+17:07:20.856 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:07:20.856 [main] DEBUG - Save part 'xl/workbook.xml'
+17:07:20.857 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:07:20.857 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:07:20.857 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:07:20.859 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:07:20.859 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:07:21.009 [main] INFO  - Printing lowest cab details : 
+17:07:21.045 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:07:21.046 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:07:21.046 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:07:21.051 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:07:21.065 [main] DEBUG - Save content types part
+17:07:21.066 [main] DEBUG - Save package relationships
+17:07:21.067 [main] DEBUG - Save part 'docProps/app.xml'
+17:07:21.067 [main] DEBUG - Save part 'docProps/core.xml'
+17:07:21.068 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:07:21.068 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:07:21.068 [main] DEBUG - Save part 'xl/styles.xml'
+17:07:21.068 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:07:21.069 [main] DEBUG - Save part 'xl/workbook.xml'
+17:07:21.070 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:07:21.071 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:07:21.071 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:07:21.072 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:07:21.073 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:07:25.660 [main] INFO  - Going to makemytrip home page
+17:07:25.778 [main] INFO  - maximized window
+17:07:31.237 [main] INFO  - In the MakeMyTrip Website
+17:07:32.347 [main] INFO  - Clicked on Cabs option
+17:07:32.351 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:07:32.351 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:07:32.352 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:07:32.361 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:07:32.384 [main] DEBUG - Save content types part
+17:07:32.386 [main] DEBUG - Save package relationships
+17:07:32.388 [main] DEBUG - Save part 'docProps/app.xml'
+17:07:32.388 [main] DEBUG - Save part 'docProps/core.xml'
+17:07:32.389 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:07:32.389 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:07:32.390 [main] DEBUG - Save part 'xl/styles.xml'
+17:07:32.390 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:07:32.390 [main] DEBUG - Save part 'xl/workbook.xml'
+17:07:32.391 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:07:32.391 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:07:32.391 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:07:32.394 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:07:32.395 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:07:34.555 [main] INFO  - Clicked on search button
+17:07:37.577 [main] INFO  - In cabs page
+17:07:37.580 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:07:37.580 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:07:37.581 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:07:37.585 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:07:37.601 [main] DEBUG - Save content types part
+17:07:37.602 [main] DEBUG - Save package relationships
+17:07:37.603 [main] DEBUG - Save part 'docProps/app.xml'
+17:07:37.603 [main] DEBUG - Save part 'docProps/core.xml'
+17:07:37.603 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:07:37.604 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:07:37.604 [main] DEBUG - Save part 'xl/styles.xml'
+17:07:37.604 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:07:37.604 [main] DEBUG - Save part 'xl/workbook.xml'
+17:07:37.605 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:07:37.605 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:07:37.605 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:07:37.606 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:07:37.607 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:07:37.724 [main] INFO  - Clicking more dropdown
+17:07:37.780 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:07:37.781 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:07:37.781 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:07:37.787 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:07:37.803 [main] DEBUG - Save content types part
+17:07:37.804 [main] DEBUG - Save package relationships
+17:07:37.806 [main] DEBUG - Save part 'docProps/app.xml'
+17:07:37.806 [main] DEBUG - Save part 'docProps/core.xml'
+17:07:37.806 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:07:37.806 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:07:37.807 [main] DEBUG - Save part 'xl/styles.xml'
+17:07:37.807 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:07:37.807 [main] DEBUG - Save part 'xl/workbook.xml'
+17:07:37.808 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:07:37.808 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:07:37.809 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:07:37.810 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:07:37.810 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:07:37.965 [main] INFO  - Clicking gift cards option
+17:07:39.594 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:07:39.595 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:07:39.595 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:07:39.600 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:07:39.614 [main] DEBUG - Save content types part
+17:07:39.615 [main] DEBUG - Save package relationships
+17:07:39.615 [main] DEBUG - Save part 'docProps/app.xml'
+17:07:39.616 [main] DEBUG - Save part 'docProps/core.xml'
+17:07:39.616 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:07:39.616 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:07:39.617 [main] DEBUG - Save part 'xl/styles.xml'
+17:07:39.617 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:07:39.617 [main] DEBUG - Save part 'xl/workbook.xml'
+17:07:39.618 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:07:39.618 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:07:39.618 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:07:39.619 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:07:39.619 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:07:39.786 [main] INFO  - Clicking on wedding giftcard
+17:07:42.103 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:07:42.103 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:07:42.103 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:07:42.110 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:07:42.124 [main] DEBUG - Save content types part
+17:07:42.125 [main] DEBUG - Save package relationships
+17:07:42.126 [main] DEBUG - Save part 'docProps/app.xml'
+17:07:42.126 [main] DEBUG - Save part 'docProps/core.xml'
+17:07:42.126 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:07:42.126 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:07:42.127 [main] DEBUG - Save part 'xl/styles.xml'
+17:07:42.127 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:07:42.128 [main] DEBUG - Save part 'xl/workbook.xml'
+17:07:42.128 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:07:42.129 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:07:42.129 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:07:42.130 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:07:42.130 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:07:42.363 [main] INFO  - Passing sender's name, mobile and email id
+17:07:43.754 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:07:43.755 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:07:43.756 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:07:43.775 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:07:43.802 [main] DEBUG - Save content types part
+17:07:43.805 [main] DEBUG - Save package relationships
+17:07:43.806 [main] DEBUG - Save part 'docProps/app.xml'
+17:07:43.807 [main] DEBUG - Save part 'docProps/core.xml'
+17:07:43.808 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:07:43.809 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:07:43.809 [main] DEBUG - Save part 'xl/styles.xml'
+17:07:43.809 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:07:43.810 [main] DEBUG - Save part 'xl/workbook.xml'
+17:07:43.811 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:07:43.811 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:07:43.812 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:07:43.814 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:07:43.814 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:07:43.942 [main] INFO  - Clicking on buy now option with invalid email address
+17:07:44.078 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:07:44.078 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:07:44.078 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:07:44.083 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:07:44.098 [main] DEBUG - Save content types part
+17:07:44.099 [main] DEBUG - Save package relationships
+17:07:44.100 [main] DEBUG - Save part 'docProps/app.xml'
+17:07:44.100 [main] DEBUG - Save part 'docProps/core.xml'
+17:07:44.100 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:07:44.101 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:07:44.101 [main] DEBUG - Save part 'xl/styles.xml'
+17:07:44.101 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:07:44.101 [main] DEBUG - Save part 'xl/workbook.xml'
+17:07:44.102 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:07:44.102 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:07:44.102 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:07:44.103 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:07:44.104 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:07:44.255 [main] INFO  - Capturing the error message displayed
+17:07:44.275 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:07:44.275 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:07:44.276 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:07:44.280 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:07:44.294 [main] DEBUG - Save content types part
+17:07:44.295 [main] DEBUG - Save package relationships
+17:07:44.295 [main] DEBUG - Save part 'docProps/app.xml'
+17:07:44.296 [main] DEBUG - Save part 'docProps/core.xml'
+17:07:44.296 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:07:44.297 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:07:44.297 [main] DEBUG - Save part 'xl/styles.xml'
+17:07:44.297 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:07:44.298 [main] DEBUG - Save part 'xl/workbook.xml'
+17:07:44.299 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:07:44.299 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:07:44.299 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:07:44.300 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:07:44.300 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:07:49.181 [main] INFO  - Going to makemytrip home page
+17:07:49.301 [main] INFO  - maximized window
+17:07:55.255 [main] INFO  - In the MakeMyTrip Website
+17:07:56.367 [main] INFO  - Clicked on Cabs option
+17:07:56.373 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:07:56.373 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:07:56.374 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:07:56.378 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:07:56.395 [main] DEBUG - Save content types part
+17:07:56.396 [main] DEBUG - Save package relationships
+17:07:56.396 [main] DEBUG - Save part 'docProps/app.xml'
+17:07:56.396 [main] DEBUG - Save part 'docProps/core.xml'
+17:07:56.397 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:07:56.398 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:07:56.398 [main] DEBUG - Save part 'xl/styles.xml'
+17:07:56.398 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:07:56.399 [main] DEBUG - Save part 'xl/workbook.xml'
+17:07:56.400 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:07:56.400 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:07:56.400 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:07:56.402 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:07:56.403 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:07:58.424 [main] INFO  - Clicked on search button
+17:08:01.436 [main] INFO  - In cabs page
+17:08:01.439 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:08:01.440 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:08:01.440 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:08:01.444 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:08:01.456 [main] DEBUG - Save content types part
+17:08:01.457 [main] DEBUG - Save package relationships
+17:08:01.457 [main] DEBUG - Save part 'docProps/app.xml'
+17:08:01.457 [main] DEBUG - Save part 'docProps/core.xml'
+17:08:01.458 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:08:01.458 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:08:01.458 [main] DEBUG - Save part 'xl/styles.xml'
+17:08:01.459 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:08:01.459 [main] DEBUG - Save part 'xl/workbook.xml'
+17:08:01.459 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:08:01.459 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:08:01.460 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:08:01.461 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:08:01.461 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:08:01.583 [main] INFO  - Clicking more dropdown
+17:08:01.638 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:08:01.639 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:08:01.639 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:08:01.645 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:08:01.659 [main] DEBUG - Save content types part
+17:08:01.660 [main] DEBUG - Save package relationships
+17:08:01.660 [main] DEBUG - Save part 'docProps/app.xml'
+17:08:01.661 [main] DEBUG - Save part 'docProps/core.xml'
+17:08:01.661 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:08:01.662 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:08:01.662 [main] DEBUG - Save part 'xl/styles.xml'
+17:08:01.662 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:08:01.662 [main] DEBUG - Save part 'xl/workbook.xml'
+17:08:01.663 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:08:01.663 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:08:01.663 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:08:01.665 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:08:01.665 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:08:01.819 [main] INFO  - Clicking gift cards option
+17:08:03.458 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:08:03.459 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:08:03.459 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:08:03.464 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:08:03.491 [main] DEBUG - Save content types part
+17:08:03.492 [main] DEBUG - Save package relationships
+17:08:03.493 [main] DEBUG - Save part 'docProps/app.xml'
+17:08:03.493 [main] DEBUG - Save part 'docProps/core.xml'
+17:08:03.494 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:08:03.495 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:08:03.495 [main] DEBUG - Save part 'xl/styles.xml'
+17:08:03.495 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:08:03.495 [main] DEBUG - Save part 'xl/workbook.xml'
+17:08:03.496 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:08:03.496 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:08:03.496 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:08:03.497 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:08:03.497 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:08:03.719 [main] INFO  - Clicking on wedding giftcard
+17:08:05.437 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:08:05.438 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:08:05.438 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:08:05.442 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:08:05.457 [main] DEBUG - Save content types part
+17:08:05.458 [main] DEBUG - Save package relationships
+17:08:05.459 [main] DEBUG - Save part 'docProps/app.xml'
+17:08:05.459 [main] DEBUG - Save part 'docProps/core.xml'
+17:08:05.459 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:08:05.459 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:08:05.460 [main] DEBUG - Save part 'xl/styles.xml'
+17:08:05.460 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:08:05.460 [main] DEBUG - Save part 'xl/workbook.xml'
+17:08:05.461 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:08:05.461 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:08:05.461 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:08:05.462 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:08:05.462 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:08:05.655 [main] INFO  - Passing sender's name, mobile and email id
+17:08:06.935 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:08:06.935 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:08:06.936 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:08:06.940 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:08:06.951 [main] DEBUG - Save content types part
+17:08:06.952 [main] DEBUG - Save package relationships
+17:08:06.953 [main] DEBUG - Save part 'docProps/app.xml'
+17:08:06.953 [main] DEBUG - Save part 'docProps/core.xml'
+17:08:06.954 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:08:06.954 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:08:06.954 [main] DEBUG - Save part 'xl/styles.xml'
+17:08:06.954 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:08:06.955 [main] DEBUG - Save part 'xl/workbook.xml'
+17:08:06.955 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:08:06.955 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:08:06.955 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:08:06.956 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:08:06.957 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:08:07.069 [main] INFO  - Clicking on buy now option with valid email address
+17:08:11.072 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:08:11.073 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:08:11.073 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:08:11.079 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:08:11.092 [main] DEBUG - Save content types part
+17:08:11.093 [main] DEBUG - Save package relationships
+17:08:11.094 [main] DEBUG - Save part 'docProps/app.xml'
+17:08:11.094 [main] DEBUG - Save part 'docProps/core.xml'
+17:08:11.094 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:08:11.094 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:08:11.095 [main] DEBUG - Save part 'xl/styles.xml'
+17:08:11.095 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:08:11.095 [main] DEBUG - Save part 'xl/workbook.xml'
+17:08:11.095 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:08:11.096 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:08:11.096 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:08:11.097 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:08:11.097 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:08:15.999 [main] INFO  - Going to makemytrip home page
+17:08:16.117 [main] INFO  - maximized window
+17:08:22.052 [main] INFO  - In the MakeMyTrip Website
+17:08:22.451 [main] INFO  - Clicking on hotels icon
+17:08:23.167 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:08:23.167 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:08:23.167 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:08:23.171 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:08:23.185 [main] DEBUG - Save content types part
+17:08:23.185 [main] DEBUG - Save package relationships
+17:08:23.186 [main] DEBUG - Save part 'docProps/app.xml'
+17:08:23.186 [main] DEBUG - Save part 'docProps/core.xml'
+17:08:23.187 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:08:23.187 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:08:23.187 [main] DEBUG - Save part 'xl/styles.xml'
+17:08:23.187 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:08:23.187 [main] DEBUG - Save part 'xl/workbook.xml'
+17:08:23.188 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:08:23.188 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:08:23.188 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:08:23.189 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:08:23.189 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:08:23.405 [main] INFO  - Clicking on upto 4 rooms option
+17:08:23.470 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:08:23.470 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:08:23.471 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:08:23.474 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:08:23.491 [main] DEBUG - Save content types part
+17:08:23.493 [main] DEBUG - Save package relationships
+17:08:23.493 [main] DEBUG - Save part 'docProps/app.xml'
+17:08:23.493 [main] DEBUG - Save part 'docProps/core.xml'
+17:08:23.494 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:08:23.495 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:08:23.495 [main] DEBUG - Save part 'xl/styles.xml'
+17:08:23.495 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:08:23.496 [main] DEBUG - Save part 'xl/workbook.xml'
+17:08:23.497 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:08:23.497 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:08:23.497 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:08:23.498 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:08:23.498 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:08:23.672 [main] INFO  - Clicking on rooms and guests dropdown
+17:08:23.886 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:08:23.886 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:08:23.886 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:08:23.890 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:08:23.906 [main] DEBUG - Save content types part
+17:08:23.907 [main] DEBUG - Save package relationships
+17:08:23.907 [main] DEBUG - Save part 'docProps/app.xml'
+17:08:23.908 [main] DEBUG - Save part 'docProps/core.xml'
+17:08:23.908 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:08:23.908 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:08:23.908 [main] DEBUG - Save part 'xl/styles.xml'
+17:08:23.909 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:08:23.909 [main] DEBUG - Save part 'xl/workbook.xml'
+17:08:23.911 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:08:23.912 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:08:23.912 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:08:23.914 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:08:23.915 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:08:24.128 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+17:08:27.389 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:08:27.389 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:08:27.389 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:08:27.394 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:08:27.407 [main] DEBUG - Save content types part
+17:08:27.409 [main] DEBUG - Save package relationships
+17:08:27.410 [main] DEBUG - Save part 'docProps/app.xml'
+17:08:27.410 [main] DEBUG - Save part 'docProps/core.xml'
+17:08:27.410 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+17:08:27.410 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:08:27.411 [main] DEBUG - Save part 'xl/styles.xml'
+17:08:27.411 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:08:27.411 [main] DEBUG - Save part 'xl/workbook.xml'
+17:08:27.412 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:08:27.412 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:08:27.412 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:08:27.412 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:08:27.412 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:51:07.151 [main] INFO  - Going to makemytrip home page
+17:51:07.289 [main] INFO  - maximized window
+17:51:13.220 [main] INFO  - In the MakeMyTrip Website
+17:51:13.723 [main] INFO  - Clicking on hotels icon
+17:51:14.484 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:51:14.486 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:51:14.487 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:51:14.638 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+17:51:14.640 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+17:51:14.642 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+17:51:14.644 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+17:51:14.644 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+17:51:14.645 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+17:51:14.657 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+17:51:14.658 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+17:51:14.661 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+17:51:14.662 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+17:51:14.663 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+17:51:14.664 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+17:51:14.665 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+17:51:14.666 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+17:51:14.707 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+17:51:14.708 [main] TRACE - Resolving type for handle themefd26doctype
+17:51:14.780 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+17:51:14.792 [main] TRACE - Resolving type for handle ctstylesheet4257type
+17:51:14.802 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+17:51:14.807 [main] TRACE - Resolving type for handle ctfonts6623type
+17:51:14.810 [main] TRACE - Resolving type for handle ctfont14d8type
+17:51:14.814 [main] TRACE - Resolving type for handle ctfills2c6ftype
+17:51:14.816 [main] TRACE - Resolving type for handle ctfill550ctype
+17:51:14.819 [main] TRACE - Resolving type for handle ctborders0d66type
+17:51:14.824 [main] TRACE - Resolving type for handle ctborderf935type
+17:51:14.828 [main] TRACE - Resolving type for handle ctcellxfs1322type
+17:51:14.831 [main] TRACE - Resolving type for handle ctxf97f7type
+17:51:14.835 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+17:51:14.839 [main] TRACE - Resolving type for handle ctdxfsb26atype
+17:51:14.844 [main] TRACE - Resolving type for handle cttablestyles872ftype
+17:51:14.848 [main] TRACE - Resolving type for handle sstf81fdoctype
+17:51:14.859 [main] TRACE - Resolving type for handle ctsst44f3type
+17:51:14.871 [main] TRACE - Resolving type for handle ctrsta472type
+17:51:14.902 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:51:14.904 [main] TRACE - Resolving type for handle workbookec17doctype
+17:51:14.908 [main] TRACE - Resolving type for handle ctworkbook83c3type
+17:51:14.913 [main] TRACE - Resolving type for handle ctsheets49fdtype
+17:51:14.916 [main] TRACE - Resolving type for handle ctsheet4dbetype
+17:51:14.919 [main] TRACE - Resolving type for handle strelationshipid1e94type
+17:51:14.922 [main] TRACE - Resolving type for handle worksheetf539doctype
+17:51:14.927 [main] TRACE - Resolving type for handle ctworksheet530dtype
+17:51:14.940 [main] TRACE - Resolving type for handle ctcols627ctype
+17:51:14.948 [main] TRACE - Resolving type for handle ctsheetdata8408type
+17:51:14.954 [main] TRACE - Resolving type for handle ctrowdd39type
+17:51:14.960 [main] TRACE - Resolving type for handle ctcell842btype
+17:51:14.971 [main] TRACE - Resolving type for handle stcellrefe4e0type
+17:51:14.992 [main] TRACE - Resolving type for handle ctcola95ftype
+17:51:15.038 [main] TRACE - Resolving type for handle stxstringf179type
+17:51:15.047 [main] TRACE - Resolving type for handle stcelltypebf95type
+17:51:15.287 [main] INFO  - Clicking on upto 4 rooms option
+17:51:15.385 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:51:15.386 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:51:15.387 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:51:15.408 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:51:15.613 [main] INFO  - Clicking on rooms and guests dropdown
+17:51:15.754 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:51:15.755 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:51:15.756 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:51:15.772 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:51:16.021 [main] INFO  - Clicking on adults dropdown and printing all the numbers
