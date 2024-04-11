@@ -1,10 +1,14 @@
 package pageObjects;
 
+import java.time.Duration;
 import java.util.List;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class HomePage extends BasePage{
 
@@ -159,11 +163,16 @@ public class HomePage extends BasePage{
 	public void selectTime(String time)
 	{
 		String[]t=time.split(":");
-		timeDropdown.click();
+		WebDriverWait wait = new WebDriverWait(driver,Duration.ofSeconds(30));
+		wait.until(ExpectedConditions.elementToBeClickable(timeDropdown));
+		JavascriptExecutor js = (JavascriptExecutor)driver;
+		js.executeScript("arguments[0].click()",timeDropdown);
+		//timeDropdown.click();
 		for(WebElement e: hours)
 		{
 			if(e.getText().contains(t[0]))
 			{
+				wait.until(ExpectedConditions.elementToBeClickable(e));
 				e.click();
 			}
 		}
@@ -172,6 +181,7 @@ public class HomePage extends BasePage{
 		{
 			if(e.getText().contains(t[1])) 
 			{
+				wait.until(ExpectedConditions.elementToBeClickable(e));
 				e.click();
 			}
 		}
@@ -180,9 +190,11 @@ public class HomePage extends BasePage{
 		{
 			if(e.getText().equalsIgnoreCase(t[2]))
 			{
+				wait.until(ExpectedConditions.elementToBeClickable(e));
 				e.click();
 			}
 		}
+		wait.until(ExpectedConditions.elementToBeClickable(applyButton));
 		applyButton.click();
 	}
 	

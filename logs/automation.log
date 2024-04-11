@@ -829,3 +829,40 @@
 14:40:48.750 [main] INFO  - Selecting SUV Checkbox
 14:40:48.832 [main] INFO  - Selected SUV Checkbox
 14:40:49.041 [main] INFO  - Printing lowest cab details : 
+20:19:07.643 [main] INFO  - Going to makemytrip home page
+20:19:07.798 [main] INFO  - maximized window
+20:19:14.870 [main] INFO  - In the MakeMyTrip Website
+20:19:16.076 [main] INFO  - Clicked on Cabs option
+20:19:18.761 [main] INFO  - Clicked one way outstation cab
+20:19:23.195 [main] INFO  - Selected Delhi
+20:19:27.166 [main] INFO  - Selected Manali
+20:19:28.519 [main] INFO  - Selected date
+20:19:31.334 [main] INFO  - Selected Time
+20:20:13.607 [main] INFO  - Going to makemytrip home page
+20:20:13.778 [main] INFO  - maximized window
+20:20:20.949 [main] INFO  - In the MakeMyTrip Website
+20:20:22.173 [main] INFO  - Clicked on Cabs option
+20:20:24.717 [main] INFO  - Clicked one way outstation cab
+20:20:29.108 [main] INFO  - Selected Delhi
+20:20:33.008 [main] INFO  - Selected Manali
+20:20:34.465 [main] INFO  - Selected date
+20:20:36.479 [main] INFO  - Selected Time
+20:20:39.863 [main] INFO  - Clicked on search button
+20:20:42.881 [main] INFO  - In cabs page
+20:20:43.535 [main] INFO  - Selected low to highest price in the sort by dropdown
+20:20:44.151 [main] INFO  - Selected SUV Checkbox
+20:20:44.509 [main] INFO  - Printing lowest cab details : 
+20:30:03.808 [main] INFO  - Going to makemytrip home page
+20:30:03.969 [main] INFO  - maximized window
+20:30:10.873 [main] INFO  - In the MakeMyTrip Website
+20:30:12.192 [main] INFO  - Clicked on Cabs option
+20:30:14.916 [main] INFO  - Clicked one way outstation cab
+20:30:19.225 [main] INFO  - Selected Delhi
+20:30:23.325 [main] INFO  - Selected Manali
+20:30:24.619 [main] INFO  - Selected date
+20:30:27.661 [main] INFO  - Selected Time
+20:30:30.451 [main] INFO  - Clicked on search button
+20:30:33.477 [main] INFO  - In cabs page
+20:30:34.153 [main] INFO  - Selected low to highest price in the sort by dropdown
+20:30:34.752 [main] INFO  - Selected SUV Checkbox
+20:30:35.065 [main] INFO  - Printing lowest cab details : 
