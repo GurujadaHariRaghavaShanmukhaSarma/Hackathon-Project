@@ -19,41 +19,41 @@ public class GiftCardsPage extends BasePage {
 	
 	WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
 
+	@FindBy(xpath="//li[@data-cy='gc_breadcrumb_Gift Cards_1']/a")
+	WebElement toValidateGiftCards;
+	
 	@FindBy(xpath="//body/div[@id='root']/div[@id='top-banner']/div[@class='minContainer']/div/div[@class='gc__container']/div[@class='gc__main']/div[@class='gc__right']/div[2]/ul[1]/li[1]/div[1]")
 	WebElement wedding_GiftCard;
 	
 	@FindBy(xpath="//*[@id=\"top-banner\"]/div[2]/div/div/div/div[1]/div[1]/ul/li[3]/a")
 	WebElement validate_wedding_GiftCard;
 	
-	@FindBy(xpath="//li[@data-cy='gc_breadcrumb_Gift Cards_1']/a")
-	WebElement toValidateGiftCards;
+//	@FindBy(xpath="//*[@id=\"top-banner\"]/div[2]/div/div[1]/div[2]/div[2]/div[6]/ul/li[1]")
+//	WebElement fathersDayGiftCard;
 	
-	@FindBy(xpath="//*[@id=\"top-banner\"]/div[2]/div/div[1]/div[2]/div[2]/div[6]/ul/li[1]")
-	WebElement fathersDayGiftCard;
+//	@FindBy(xpath="//li[@data-cy='SingleGiftCard_57']//h3")
+//	WebElement onamGiftCard;
+//	
+//	@FindBy(xpath="//div[@class='gcard__dtl']/h1")
+//	WebElement toValidateFathersDayGC;
+//	
+//	@FindBy(xpath="//div[@class='deliver__wrap']//li[@data-cy='DeliveryModes_444'][2]/span")
+//	WebElement emailOption;
 	
-	@FindBy(xpath="//li[@data-cy='SingleGiftCard_57']//h3")
-	WebElement onamGiftCard;
+//	@FindBy(xpath="//div[@class='form__field']//input[@name='name']")
+//	WebElement recipientsName;
+//	
+//	@FindBy(xpath="//div[@class='form__field']//input[@name='mobileNo']")
+//	WebElement recipientsMobileNo;
+//	
+//	@FindBy(xpath="//div[@class='form__field']//input[@name='emailId']")
+//	WebElement recipientsEmailId;
+//	
+//	@FindBy(xpath="//div[@class='form__field__wrap']//textarea[@name='giftMessage']")
+//	WebElement composeMessage;
 	
-	@FindBy(xpath="//div[@class='gcard__dtl']/h1")
-	WebElement toValidateFathersDayGC;
-	
-	@FindBy(xpath="//div[@class='deliver__wrap']//li[@data-cy='DeliveryModes_444'][2]/span")
-	WebElement emailOption;
-	
-	@FindBy(xpath="//div[@class='form__field']//input[@name='name']")
-	WebElement recipientsName;
-	
-	@FindBy(xpath="//div[@class='form__field']//input[@name='mobileNo']")
-	WebElement recipientsMobileNo;
-	
-	@FindBy(xpath="//div[@class='form__field']//input[@name='emailId']")
-	WebElement recipientsEmailId;
-	
-	@FindBy(xpath="//div[@class='form__field__wrap']//textarea[@name='giftMessage']")
-	WebElement composeMessage;
-	
-	@FindBy(xpath="//div[@class='about__card__wrap']")
-	WebElement aboutThisGC;
+//	@FindBy(xpath="//div[@class='about__card__wrap']")
+//	WebElement aboutThisGC;
 	
 	@FindBy(xpath="//div[@class='form__field']//input[@name='senderName']")
 	WebElement senderName;
@@ -124,52 +124,52 @@ public class GiftCardsPage extends BasePage {
 		}
 	}
 	
-	public void toClickFathersDayGC() {
-		scrollUntilElement(onamGiftCard);
-		try {
-			Thread.sleep(1000);
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		hoverActions(fathersDayGiftCard);
-		clickingAction(fathersDayGiftCard);
+//	public void toClickFathersDayGC() {
+//		scrollUntilElement(onamGiftCard);
+//		try {
+//			Thread.sleep(1000);
+//		} catch (InterruptedException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
+//		hoverActions(fathersDayGiftCard);
+//		clickingAction(fathersDayGiftCard);
 //		fathersDayGiftCard.click();
-	}
+//	}
+//	
+//	public String toValidateFathersDayGCMethod() {
+//		try {
+//		String FathersDayValidation = toValidateFathersDayGC.getText();
+//		return FathersDayValidation;
+//		}catch(Exception e) {
+//			return (e.getMessage());
+//		}
+//	}
 	
-	public String toValidateFathersDayGCMethod() {
-		try {
-		String FathersDayValidation = toValidateFathersDayGC.getText();
-		return FathersDayValidation;
-		}catch(Exception e) {
-			return (e.getMessage());
-		}
-	}
+//	public void toClickEmailOption() {
+//		wait.until(ExpectedConditions.visibilityOf(emailOption));
+//		scrollUntilElement(emailOption);
+//		emailOption.click();
+//	}
 	
-	public void toClickEmailOption() {
-		wait.until(ExpectedConditions.visibilityOf(emailOption));
-		scrollUntilElement(emailOption);
-		emailOption.click();
-	}
-	
-	public void toInputRecipientsName(String Rname) throws Exception {
-		Thread.sleep(2000);
-		scrollUntilPixel(0,300);
-		recipientsName.sendKeys(Rname);
-	}
-	
-	public void toInputRecipientsMobileNo(String RmobileNo) throws InterruptedException {
-		Thread.sleep(2000);
-		recipientsMobileNo.sendKeys(RmobileNo);
-	}
-	
-	public void toInputRecipientsEmailID(String RemailID) {
-		recipientsEmailId.sendKeys(RemailID);
-	}
-	
-	public void toInputComposeMessage(String message) {
-		composeMessage.sendKeys(message);
-	}
+//	public void toInputRecipientsName(String Rname) throws Exception {
+//		Thread.sleep(2000);
+//		scrollUntilPixel(0,300);
+//		recipientsName.sendKeys(Rname);
+//	}
+//	
+//	public void toInputRecipientsMobileNo(String RmobileNo) throws InterruptedException {
+//		Thread.sleep(2000);
+//		recipientsMobileNo.sendKeys(RmobileNo);
+//	}
+//	
+//	public void toInputRecipientsEmailID(String RemailID) {
+//		recipientsEmailId.sendKeys(RemailID);
+//	}
+//	
+//	public void toInputComposeMessage(String message) {
+//		composeMessage.sendKeys(message);
+//	}
 	
 	public void toInputsenderName(String Sname) {
 		scrollUntilElement(senderName);

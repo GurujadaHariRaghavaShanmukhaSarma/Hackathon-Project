@@ -159,6 +159,7 @@ public class HomePage extends BasePage{
 	public void selectTime(String time)
 	{
 		String[]t=time.split(":");
+		timeDropdown.click();
 		for(WebElement e: hours)
 		{
 			if(e.getText().contains(t[0]))

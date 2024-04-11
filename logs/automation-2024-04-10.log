@@ -1,0 +1,661 @@
+17:51:19.272 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:51:19.288 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+17:51:19.288 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:51:19.299 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:16:15.920 [main] INFO  - Going to makemytrip home page
+21:16:16.054 [main] INFO  - maximized window
+21:16:23.497 [main] INFO  - In the MakeMyTrip Website
+21:16:24.978 [main] INFO  - Clicked on Cabs option
+21:16:25.457 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:16:25.467 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:16:25.470 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:16:26.081 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+21:16:26.089 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:16:26.090 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:16:26.091 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:16:26.092 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:16:26.095 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:16:26.123 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:16:26.126 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:16:26.135 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:16:26.137 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:16:26.139 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:16:26.141 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:16:26.143 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:16:26.145 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+21:16:26.244 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+21:16:26.245 [main] TRACE - Resolving type for handle themefd26doctype
+21:16:26.413 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+21:16:26.451 [main] TRACE - Resolving type for handle ctstylesheet4257type
+21:16:26.463 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+21:16:26.471 [main] TRACE - Resolving type for handle ctfonts6623type
+21:16:26.480 [main] TRACE - Resolving type for handle ctfont14d8type
+21:16:26.493 [main] TRACE - Resolving type for handle ctfills2c6ftype
+21:16:26.499 [main] TRACE - Resolving type for handle ctfill550ctype
+21:16:26.505 [main] TRACE - Resolving type for handle ctborders0d66type
+21:16:26.515 [main] TRACE - Resolving type for handle ctborderf935type
+21:16:26.527 [main] TRACE - Resolving type for handle ctcellxfs1322type
+21:16:26.539 [main] TRACE - Resolving type for handle ctxf97f7type
+21:16:26.549 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+21:16:26.556 [main] TRACE - Resolving type for handle ctdxfsb26atype
+21:16:26.564 [main] TRACE - Resolving type for handle cttablestyles872ftype
+21:16:26.573 [main] TRACE - Resolving type for handle sstf81fdoctype
+21:16:26.591 [main] TRACE - Resolving type for handle ctsst44f3type
+21:16:26.614 [main] TRACE - Resolving type for handle ctrsta472type
+21:16:26.726 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:16:26.729 [main] TRACE - Resolving type for handle workbookec17doctype
+21:16:26.742 [main] TRACE - Resolving type for handle ctworkbook83c3type
+21:16:26.755 [main] TRACE - Resolving type for handle ctsheets49fdtype
+21:16:26.765 [main] TRACE - Resolving type for handle ctsheet4dbetype
+21:16:26.772 [main] TRACE - Resolving type for handle strelationshipid1e94type
+21:16:26.780 [main] TRACE - Resolving type for handle worksheetf539doctype
+21:16:26.791 [main] TRACE - Resolving type for handle ctworksheet530dtype
+21:16:26.813 [main] TRACE - Resolving type for handle ctcols627ctype
+21:16:26.831 [main] TRACE - Resolving type for handle ctsheetdata8408type
+21:16:26.839 [main] TRACE - Resolving type for handle ctrowdd39type
+21:16:26.852 [main] TRACE - Resolving type for handle ctcell842btype
+21:16:26.873 [main] TRACE - Resolving type for handle stcellrefe4e0type
+21:16:26.913 [main] TRACE - Resolving type for handle ctcola95ftype
+21:16:27.055 [main] TRACE - Resolving type for handle stxstringf179type
+21:16:27.068 [main] TRACE - Resolving type for handle stcelltypebf95type
+21:16:27.901 [main] INFO  - Clicked one way outstation cab
+21:16:27.930 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:16:27.935 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:16:27.937 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:16:28.027 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:16:32.699 [main] INFO  - Selected Delhi
+21:16:32.724 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:16:32.728 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:16:32.730 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:16:32.803 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:16:37.049 [main] INFO  - Selected Manali
+21:16:37.071 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:16:37.073 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:16:37.075 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:16:37.131 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:16:38.452 [main] INFO  - Selected date
+21:16:38.470 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:16:38.472 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:16:38.473 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:16:38.514 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:16:40.992 [main] INFO  - Selected Time
+21:16:41.012 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:16:41.014 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:16:41.017 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:16:41.055 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:16:44.573 [main] INFO  - Clicked on search button
+21:16:47.596 [main] INFO  - In cabs page
+21:16:47.616 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:16:47.618 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:16:47.620 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:16:47.672 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:16:48.616 [main] INFO  - Selected low to highest price in the sort by dropdown
+21:16:48.632 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:16:48.635 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:16:48.637 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:16:48.671 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:16:49.394 [main] INFO  - Selected SUV Checkbox
+21:16:49.410 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:16:49.412 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:16:49.416 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:16:49.442 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:16:49.884 [main] INFO  - Printing lowest cab details : 
+21:16:50.022 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:16:50.024 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:16:50.027 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:16:50.052 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:17:05.549 [main] INFO  - Going to makemytrip home page
+21:17:05.701 [main] INFO  - maximized window
+21:17:12.581 [main] INFO  - In the MakeMyTrip Website
+21:17:13.961 [main] INFO  - Clicked on Cabs option
+21:17:13.977 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:17:13.979 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:17:13.980 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:17:14.013 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:17:17.176 [main] INFO  - Clicked on search button
+21:17:20.199 [main] INFO  - In cabs page
+21:17:20.212 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:17:20.213 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:17:20.214 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:17:20.231 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:17:20.502 [main] INFO  - Clicking more dropdown
+21:17:20.720 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:17:20.721 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:17:20.723 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:17:20.741 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:17:21.079 [main] INFO  - Clicking gift cards option
+21:17:23.399 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:17:23.401 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:17:23.402 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:17:23.427 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:17:23.945 [main] INFO  - Clicking on wedding giftcard
+21:17:26.369 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:17:26.371 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:17:26.372 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:17:26.397 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:17:26.771 [main] INFO  - Passing sender's name, mobile and email id
+21:17:28.812 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:17:28.813 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:17:28.815 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:17:28.838 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:17:29.137 [main] INFO  - Clicking on buy now option with invalid email address
+21:17:29.465 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:17:29.467 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:17:29.469 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:17:29.490 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:17:29.776 [main] INFO  - Capturing the error message displayed
+21:17:29.861 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:17:29.863 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:17:29.864 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:17:29.904 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:17:43.972 [main] INFO  - Going to makemytrip home page
+21:17:44.106 [main] INFO  - maximized window
+21:17:51.317 [main] INFO  - In the MakeMyTrip Website
+21:17:52.795 [main] INFO  - Clicked on Cabs option
+21:17:52.811 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:17:52.813 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:17:52.814 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:17:52.835 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:17:56.065 [main] INFO  - Clicked on search button
+21:17:59.103 [main] INFO  - In cabs page
+21:17:59.122 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:17:59.124 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:17:59.126 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:17:59.153 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:17:59.546 [main] INFO  - Clicking more dropdown
+21:17:59.814 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:17:59.816 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:17:59.817 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:17:59.832 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:18:00.176 [main] INFO  - Clicking gift cards option
+21:18:02.583 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:18:02.585 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:18:02.586 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:18:02.603 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:18:03.018 [main] INFO  - Clicking on wedding giftcard
+21:18:05.588 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:18:05.590 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:18:05.591 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:18:05.609 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:18:06.072 [main] INFO  - Passing sender's name, mobile and email id
+21:18:08.084 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:18:08.086 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:18:08.087 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:18:08.108 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:18:08.416 [main] INFO  - Clicking on buy now option with valid email address
+21:18:12.702 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:18:12.703 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:18:12.704 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:18:12.719 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:18:32.564 [main] INFO  - Going to makemytrip home page
+21:18:32.688 [main] INFO  - maximized window
+21:18:40.894 [main] INFO  - In the MakeMyTrip Website
+21:18:42.116 [main] INFO  - Clicking on hotels icon
+21:18:42.939 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:18:42.941 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:18:42.942 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:18:42.967 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:18:43.467 [main] INFO  - Clicking on upto 4 rooms option
+21:18:43.755 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:18:43.756 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:18:43.757 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:18:43.775 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:18:44.289 [main] INFO  - Clicking on rooms and guests dropdown
+21:18:44.798 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:18:44.799 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:18:44.800 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:18:44.819 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:18:45.261 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+21:18:49.222 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:18:49.223 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:18:49.224 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:18:49.237 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:42:52.594 [main] INFO  - Clicking on the cab option
+21:42:53.774 [main] INFO  - Clicked on Cabs option
+21:42:54.045 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:42:54.054 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:42:54.057 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:42:54.577 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+21:42:54.585 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:42:54.586 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:42:54.587 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:42:54.588 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:42:54.589 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:42:54.611 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:42:54.613 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:42:54.625 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:42:54.627 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:42:54.629 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:42:54.629 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:42:54.633 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:42:54.636 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+21:42:54.721 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+21:42:54.722 [main] TRACE - Resolving type for handle themefd26doctype
+21:42:54.884 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+21:42:54.937 [main] TRACE - Resolving type for handle ctstylesheet4257type
+21:42:54.950 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+21:42:54.955 [main] TRACE - Resolving type for handle ctfonts6623type
+21:42:54.959 [main] TRACE - Resolving type for handle ctfont14d8type
+21:42:54.973 [main] TRACE - Resolving type for handle ctfills2c6ftype
+21:42:54.979 [main] TRACE - Resolving type for handle ctfill550ctype
+21:42:54.983 [main] TRACE - Resolving type for handle ctborders0d66type
+21:42:54.988 [main] TRACE - Resolving type for handle ctborderf935type
+21:42:54.992 [main] TRACE - Resolving type for handle ctcellxfs1322type
+21:42:54.996 [main] TRACE - Resolving type for handle ctxf97f7type
+21:42:55.003 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+21:42:55.006 [main] TRACE - Resolving type for handle ctdxfsb26atype
+21:42:55.011 [main] TRACE - Resolving type for handle cttablestyles872ftype
+21:42:55.021 [main] TRACE - Resolving type for handle sstf81fdoctype
+21:42:55.045 [main] TRACE - Resolving type for handle ctsst44f3type
+21:42:55.064 [main] TRACE - Resolving type for handle ctrsta472type
+21:42:55.152 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:42:55.154 [main] TRACE - Resolving type for handle workbookec17doctype
+21:42:55.161 [main] TRACE - Resolving type for handle ctworkbook83c3type
+21:42:55.170 [main] TRACE - Resolving type for handle ctsheets49fdtype
+21:42:55.174 [main] TRACE - Resolving type for handle ctsheet4dbetype
+21:42:55.177 [main] TRACE - Resolving type for handle strelationshipid1e94type
+21:42:55.183 [main] TRACE - Resolving type for handle worksheetf539doctype
+21:42:55.189 [main] TRACE - Resolving type for handle ctworksheet530dtype
+21:42:55.210 [main] TRACE - Resolving type for handle ctcols627ctype
+21:42:55.235 [main] TRACE - Resolving type for handle ctsheetdata8408type
+21:42:55.243 [main] TRACE - Resolving type for handle ctrowdd39type
+21:42:55.253 [main] TRACE - Resolving type for handle ctcell842btype
+21:42:55.269 [main] TRACE - Resolving type for handle stcellrefe4e0type
+21:42:55.295 [main] TRACE - Resolving type for handle ctcola95ftype
+21:42:55.391 [main] TRACE - Resolving type for handle stxstringf179type
+21:42:55.403 [main] TRACE - Resolving type for handle stcelltypebf95type
+21:42:55.788 [main] INFO  - Clicking on the cab option
+21:42:56.097 [main] INFO  - Clicked one way outstation cab
+21:42:56.108 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:42:56.111 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:42:56.112 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:42:56.159 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:42:56.531 [main] INFO  - Selecting From
+21:43:00.515 [main] INFO  - Selected Delhi
+21:43:00.531 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:43:00.534 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:43:00.535 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:43:00.588 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:43:00.998 [main] INFO  - Selecting To
+21:43:04.612 [main] INFO  - Selected Manali
+21:43:04.627 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:43:04.629 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:43:04.630 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:43:04.687 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:43:05.250 [main] INFO  - Selecting Date
+21:43:06.029 [main] INFO  - Selected date
+21:43:06.040 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:43:06.041 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:43:06.042 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:43:06.065 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:43:06.430 [main] INFO  - Selecting Time
+21:43:47.385 [main] INFO  - Clicking Search Button
+21:43:50.032 [main] INFO  - Clicked on search button
+21:43:53.074 [main] INFO  - In cabs page
+21:43:53.089 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:43:53.090 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:43:53.091 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:43:53.133 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:43:53.519 [main] INFO  - Selecting low to highest price in the sort by dropdown
+21:43:58.120 [main] INFO  - Selected low to highest price in the sort by dropdown
+21:43:58.133 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:43:58.134 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:43:58.134 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:43:58.151 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:43:58.612 [main] INFO  - Selecting SUV Checkbox
+21:43:58.948 [main] INFO  - Selected SUV Checkbox
+21:43:58.965 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:43:58.969 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:43:58.971 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:43:59.002 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:43:59.700 [main] INFO  - Printing lowest cab details : 
+21:43:59.858 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:43:59.862 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:43:59.864 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:43:59.899 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:44:24.622 [main] INFO  - Clicking on the cab option
+21:44:27.229 [main] INFO  - Clicking Search Button
+21:48:24.729 [main] INFO  - Clicking on the cab option
+21:48:25.991 [main] INFO  - Clicked on Cabs option
+21:48:26.331 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:48:26.342 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:48:26.350 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:48:26.750 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+21:48:26.755 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:48:26.756 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:48:26.757 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:48:26.758 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:48:26.760 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:48:26.789 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:48:26.791 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:48:26.798 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:48:26.800 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:48:26.804 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:48:26.805 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:48:26.807 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:48:26.809 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+21:48:26.902 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+21:48:26.905 [main] TRACE - Resolving type for handle themefd26doctype
+21:48:27.024 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+21:48:27.054 [main] TRACE - Resolving type for handle ctstylesheet4257type
+21:48:27.068 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+21:48:27.074 [main] TRACE - Resolving type for handle ctfonts6623type
+21:48:27.081 [main] TRACE - Resolving type for handle ctfont14d8type
+21:48:27.092 [main] TRACE - Resolving type for handle ctfills2c6ftype
+21:48:27.096 [main] TRACE - Resolving type for handle ctfill550ctype
+21:48:27.099 [main] TRACE - Resolving type for handle ctborders0d66type
+21:48:27.103 [main] TRACE - Resolving type for handle ctborderf935type
+21:48:27.108 [main] TRACE - Resolving type for handle ctcellxfs1322type
+21:48:27.113 [main] TRACE - Resolving type for handle ctxf97f7type
+21:48:27.121 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+21:48:27.127 [main] TRACE - Resolving type for handle ctdxfsb26atype
+21:48:27.133 [main] TRACE - Resolving type for handle cttablestyles872ftype
+21:48:27.141 [main] TRACE - Resolving type for handle sstf81fdoctype
+21:48:27.150 [main] TRACE - Resolving type for handle ctsst44f3type
+21:48:27.168 [main] TRACE - Resolving type for handle ctrsta472type
+21:48:27.230 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:48:27.232 [main] TRACE - Resolving type for handle workbookec17doctype
+21:48:27.242 [main] TRACE - Resolving type for handle ctworkbook83c3type
+21:48:27.248 [main] TRACE - Resolving type for handle ctsheets49fdtype
+21:48:27.251 [main] TRACE - Resolving type for handle ctsheet4dbetype
+21:48:27.254 [main] TRACE - Resolving type for handle strelationshipid1e94type
+21:48:27.257 [main] TRACE - Resolving type for handle worksheetf539doctype
+21:48:27.263 [main] TRACE - Resolving type for handle ctworksheet530dtype
+21:48:27.278 [main] TRACE - Resolving type for handle ctcols627ctype
+21:48:27.290 [main] TRACE - Resolving type for handle ctsheetdata8408type
+21:48:27.293 [main] TRACE - Resolving type for handle ctrowdd39type
+21:48:27.306 [main] TRACE - Resolving type for handle ctcell842btype
+21:48:27.316 [main] TRACE - Resolving type for handle stcellrefe4e0type
+21:48:27.342 [main] TRACE - Resolving type for handle ctcola95ftype
+21:48:27.443 [main] TRACE - Resolving type for handle stxstringf179type
+21:48:27.465 [main] TRACE - Resolving type for handle stcelltypebf95type
+21:48:27.795 [main] INFO  - Clicking on the cab option
+21:48:27.953 [main] INFO  - Clicked one way outstation cab
+21:48:27.963 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:48:27.965 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:48:27.966 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:48:28.010 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:48:28.336 [main] INFO  - Selecting From
+21:48:32.324 [main] INFO  - Selected Delhi
+21:48:32.346 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:48:32.347 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:48:32.348 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:48:32.394 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:48:32.756 [main] INFO  - Selecting To
+21:48:36.280 [main] INFO  - Selected Manali
+21:48:36.300 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:48:36.303 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:48:36.306 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:48:36.356 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:48:40.020 [main] INFO  - Selecting Date
+21:48:41.586 [main] INFO  - Selected date
+21:48:41.601 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:48:41.603 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:48:41.603 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:48:41.650 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:48:42.170 [main] INFO  - Selecting Time
+21:48:44.159 [main] INFO  - Selected Time
+21:48:44.175 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:48:44.178 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:48:44.180 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:48:44.207 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:48:44.636 [main] INFO  - Clicking Search Button
+21:48:48.212 [main] INFO  - Clicked on search button
+21:48:51.263 [main] INFO  - In cabs page
+21:48:51.280 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:48:51.282 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:48:51.286 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:48:51.326 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:48:52.105 [main] INFO  - Selecting low to highest price in the sort by dropdown
+21:48:56.765 [main] INFO  - Selected low to highest price in the sort by dropdown
+21:48:56.773 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:48:56.774 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:48:56.775 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:48:56.787 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:48:57.168 [main] INFO  - Selecting SUV Checkbox
+21:48:57.463 [main] INFO  - Selected SUV Checkbox
+21:48:57.474 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:48:57.476 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:48:57.478 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:48:57.497 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:48:57.764 [main] INFO  - Printing lowest cab details : 
+21:48:57.854 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:48:57.855 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+21:48:57.856 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:48:57.869 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:49:00.730 [main] INFO  - Going to makemytrip home page
+09:49:00.864 [main] INFO  - maximized window
+09:49:08.820 [main] INFO  - In the MakeMyTrip Website
+09:49:09.356 [main] INFO  - Clicking on hotels icon
+09:49:10.085 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:49:10.089 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+09:49:10.090 [main] DEBUG - Parsing relationship: /_rels/.rels
+09:49:10.266 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+09:49:10.269 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+09:49:10.269 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+09:49:10.269 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+09:49:10.270 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+09:49:10.270 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+09:49:10.280 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+09:49:10.280 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+09:49:10.284 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+09:49:10.285 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+09:49:10.286 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+09:49:10.287 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+09:49:10.288 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+09:49:10.288 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+09:49:10.337 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+09:49:10.338 [main] TRACE - Resolving type for handle themefd26doctype
+09:49:10.405 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+09:49:10.415 [main] TRACE - Resolving type for handle ctstylesheet4257type
+09:49:10.422 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+09:49:10.425 [main] TRACE - Resolving type for handle ctfonts6623type
+09:49:10.428 [main] TRACE - Resolving type for handle ctfont14d8type
+09:49:10.433 [main] TRACE - Resolving type for handle ctfills2c6ftype
+09:49:10.436 [main] TRACE - Resolving type for handle ctfill550ctype
+09:49:10.439 [main] TRACE - Resolving type for handle ctborders0d66type
+09:49:10.443 [main] TRACE - Resolving type for handle ctborderf935type
+09:49:10.448 [main] TRACE - Resolving type for handle ctcellxfs1322type
+09:49:10.452 [main] TRACE - Resolving type for handle ctxf97f7type
+09:49:10.454 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+09:49:10.456 [main] TRACE - Resolving type for handle ctdxfsb26atype
+09:49:10.460 [main] TRACE - Resolving type for handle cttablestyles872ftype
+09:49:10.464 [main] TRACE - Resolving type for handle sstf81fdoctype
+09:49:10.471 [main] TRACE - Resolving type for handle ctsst44f3type
+09:49:10.492 [main] TRACE - Resolving type for handle ctrsta472type
+09:49:10.545 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:49:10.548 [main] TRACE - Resolving type for handle workbookec17doctype
+09:49:10.558 [main] TRACE - Resolving type for handle ctworkbook83c3type
+09:49:10.569 [main] TRACE - Resolving type for handle ctsheets49fdtype
+09:49:10.574 [main] TRACE - Resolving type for handle ctsheet4dbetype
+09:49:10.584 [main] TRACE - Resolving type for handle strelationshipid1e94type
+09:49:10.591 [main] TRACE - Resolving type for handle worksheetf539doctype
+09:49:10.598 [main] TRACE - Resolving type for handle ctworksheet530dtype
+09:49:10.614 [main] TRACE - Resolving type for handle ctcols627ctype
+09:49:10.622 [main] TRACE - Resolving type for handle ctsheetdata8408type
+09:49:10.626 [main] TRACE - Resolving type for handle ctrowdd39type
+09:49:10.633 [main] TRACE - Resolving type for handle ctcell842btype
+09:49:10.644 [main] TRACE - Resolving type for handle stcellrefe4e0type
+09:49:10.658 [main] TRACE - Resolving type for handle ctcola95ftype
+09:49:10.716 [main] TRACE - Resolving type for handle stxstringf179type
+09:49:10.726 [main] TRACE - Resolving type for handle stcelltypebf95type
+09:49:10.994 [main] INFO  - Clicking on upto 4 rooms option
+09:49:11.091 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:49:11.092 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+09:49:11.093 [main] DEBUG - Parsing relationship: /_rels/.rels
+09:49:11.110 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:49:11.355 [main] INFO  - Clicking on rooms and guests dropdown
+09:49:11.532 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:49:11.533 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+09:49:11.533 [main] DEBUG - Parsing relationship: /_rels/.rels
+09:49:11.556 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:49:11.832 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+09:49:15.303 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:49:15.304 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+09:49:15.304 [main] DEBUG - Parsing relationship: /_rels/.rels
+09:49:15.314 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:32:19.373 [main] INFO  - Clicking on the cab option
+15:32:20.549 [main] INFO  - Clicked on Cabs option
+15:32:23.036 [main] INFO  - Clicking on the cab option
+15:32:23.304 [main] INFO  - Clicked one way outstation cab
+15:32:23.749 [main] INFO  - Selecting From
+15:32:27.785 [main] INFO  - Selected Delhi
+15:32:28.337 [main] INFO  - Selecting To
+15:32:31.951 [main] INFO  - Selected Manali
+15:32:32.450 [main] INFO  - Selecting Date
+15:32:33.309 [main] INFO  - Selected date
+15:32:33.962 [main] INFO  - Selecting Time
+15:32:35.881 [main] INFO  - Selected Time
+15:32:36.494 [main] INFO  - Clicking Search Button
+15:32:41.147 [main] INFO  - Clicked on search button
+15:32:44.193 [main] INFO  - In cabs page
+15:32:44.544 [main] INFO  - Selecting low to highest price in the sort by dropdown
+15:32:49.077 [main] INFO  - Selected low to highest price in the sort by dropdown
+15:32:49.331 [main] INFO  - Selecting SUV Checkbox
+15:32:49.616 [main] INFO  - Selected SUV Checkbox
+15:32:49.930 [main] INFO  - Printing lowest cab details : 
+16:35:57.158 [main] INFO  - Going to makemytrip home page
+16:35:57.277 [main] INFO  - maximized window
+16:36:04.970 [main] INFO  - In the MakeMyTrip Website
+16:36:06.079 [main] INFO  - Clicked on Cabs option
+16:36:07.916 [main] INFO  - Clicked one way outstation cab
+16:36:11.863 [main] INFO  - Selected Delhi
+16:36:15.394 [main] INFO  - Selected Manali
+16:36:16.154 [main] INFO  - Selected date
+16:36:17.219 [main] INFO  - Selected Time
+16:36:21.913 [main] INFO  - Clicked on search button
+16:36:24.947 [main] INFO  - In cabs page
+16:36:25.369 [main] INFO  - Selected low to highest price in the sort by dropdown
+16:36:25.711 [main] INFO  - Selected SUV Checkbox
+16:36:25.962 [main] INFO  - Printing lowest cab details : 
+16:36:34.185 [main] INFO  - Going to makemytrip home page
+16:36:34.303 [main] INFO  - maximized window
+16:36:43.154 [main] INFO  - In the MakeMyTrip Website
+16:36:44.244 [main] INFO  - Clicked on Cabs option
+16:36:48.180 [main] INFO  - Clicked on search button
+16:36:51.199 [main] INFO  - In cabs page
+16:36:51.430 [main] INFO  - Clicking more dropdown
+16:36:51.746 [main] INFO  - Clicking gift cards option
+16:36:53.781 [main] INFO  - Clicking on wedding giftcard
+16:36:55.395 [main] INFO  - Passing sender's name, mobile and email id
+16:36:56.981 [main] INFO  - Clicking on buy now option with invalid email address
+16:36:57.354 [main] INFO  - Capturing the error message displayed
+16:37:05.872 [main] INFO  - Going to makemytrip home page
+16:37:05.986 [main] INFO  - maximized window
+16:37:18.343 [main] INFO  - Going to makemytrip home page
+16:37:18.460 [main] INFO  - maximized window
+16:37:26.150 [main] INFO  - In the MakeMyTrip Website
+16:37:26.708 [main] INFO  - Clicking on hotels icon
+16:37:27.723 [main] INFO  - Clicking on upto 4 rooms option
+16:37:28.064 [main] INFO  - Clicking on rooms and guests dropdown
+16:37:28.570 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+16:49:29.752 [main] INFO  - Going to makemytrip home page
+16:49:29.883 [main] INFO  - maximized window
+16:49:37.850 [main] INFO  - In the MakeMyTrip Website
+16:49:38.957 [main] INFO  - Clicked on Cabs option
+16:49:39.926 [main] INFO  - Clicked one way outstation cab
+16:49:43.712 [main] INFO  - Selected Delhi
+16:49:47.880 [main] INFO  - Selected Manali
+16:49:49.187 [main] INFO  - Selected date
+16:49:51.308 [main] INFO  - Selected Time
+16:50:08.586 [main] INFO  - Clicking on the cab option
+16:50:09.854 [main] INFO  - Clicked on Cabs option
+16:50:09.967 [main] INFO  - Going to makemytrip home page
+16:50:10.122 [main] INFO  - maximized window
+16:50:13.793 [main] INFO  - Clicking Search Button
+16:50:18.254 [main] INFO  - Clicked on search button
+16:50:21.312 [main] INFO  - In cabs page
+16:50:21.617 [main] INFO  - In the MakeMyTrip Website
+16:50:22.383 [main] INFO  - Clicking more dropdown
+16:50:22.680 [main] INFO  - Clicked on more dropdown
+16:50:23.513 [main] INFO  - Clicking gift cards option
+16:50:23.795 [main] INFO  - Clicked on Cabs option
+16:50:26.780 [main] INFO  - Clicked gift cards option
+16:50:27.785 [main] INFO  - Clicking on wedding giftcard
+16:50:29.891 [main] INFO  - In wedding giftcard page
+16:50:30.341 [main] INFO  - Clicked on search button
+16:50:32.535 [main] INFO  - Passing sender's name, mobile and email id
+16:50:33.370 [main] INFO  - In cabs page
+16:50:34.016 [main] INFO  - Clicking more dropdown
+16:50:34.925 [main] INFO  - Clicking gift cards option
+16:50:35.252 [main] INFO  - Clicking on buy now option with invalid email address
+16:50:35.662 [main] INFO  - Clicked on buy now option with invalid email address
+16:50:36.279 [main] INFO  - Capturing the error message displayed
+16:50:40.810 [main] INFO  - Going to makemytrip home page
+16:50:40.966 [main] INFO  - maximized window
+16:50:51.182 [main] INFO  - In the MakeMyTrip Website
+16:50:53.387 [main] INFO  - Clicked on Cabs option
+16:51:08.419 [main] INFO  - Going to makemytrip home page
+16:51:08.580 [main] INFO  - maximized window
+16:51:14.513 [main] INFO  - Clicking on the cab option
+16:51:16.103 [main] INFO  - Clicked on Cabs option
+16:51:17.485 [main] INFO  - Clicking on hotels icon
+16:51:18.121 [main] INFO  - Clicking Search Button
+16:51:18.793 [main] INFO  - Navigated to hotels page successfully
+16:51:23.045 [main] INFO  - Clicking on upto 4 rooms option
+16:51:23.388 [main] INFO  - Clicked on upto 4 rooms option
+16:51:23.738 [main] INFO  - Clicked on search button
+16:51:24.729 [main] INFO  - Clicking on rooms and guests dropdown
+16:51:26.297 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+16:51:26.767 [main] INFO  - In cabs page
+16:51:27.398 [main] INFO  - Clicking more dropdown
+16:51:27.606 [main] INFO  - Clicked on more dropdown
+16:51:28.165 [main] INFO  - Clicking gift cards option
+16:51:32.814 [main] INFO  - Going to makemytrip home page
+16:51:33.003 [main] INFO  - Clicked gift cards option
+16:51:33.008 [main] INFO  - maximized window
+16:51:34.024 [main] INFO  - Clicking on wedding giftcard
+16:51:34.423 [main] INFO  - Going to makemytrip home page
+16:51:34.594 [main] INFO  - maximized window
+16:51:36.637 [main] INFO  - In wedding giftcard page
+16:51:37.345 [main] INFO  - Passing sender's name, mobile and email id
+16:51:46.112 [main] INFO  - Clicking on buy now option with valid email address
+17:21:37.651 [main] INFO  - Clicking on the cab option
+17:21:38.940 [main] INFO  - Clicked on Cabs option
+17:21:41.284 [main] INFO  - Clicking on the cab option
+17:21:41.465 [main] INFO  - Clicked one way outstation cab
+17:21:41.925 [main] INFO  - Selecting From
+17:21:46.024 [main] INFO  - Selected Delhi
+17:21:46.676 [main] INFO  - Selecting To
+17:21:50.204 [main] INFO  - Selected Manali
+17:21:50.681 [main] INFO  - Selecting Date
+17:21:51.318 [main] INFO  - Selected date
+17:21:51.883 [main] INFO  - Selecting Time
+17:21:53.296 [main] INFO  - Selected Time
+17:21:53.689 [main] INFO  - Clicking Search Button
+17:21:57.851 [main] INFO  - Clicked on search button
+17:22:00.887 [main] INFO  - In cabs page
+17:22:01.309 [main] INFO  - Selecting low to highest price in the sort by dropdown
+17:22:41.123 [main] INFO  - Clicking on the cab option
+20:06:59.473 [main] INFO  - Going to makemytrip home page
+20:06:59.639 [main] INFO  - maximized window
+20:07:05.296 [main] INFO  - Going to makemytrip home page
+20:07:05.477 [main] INFO  - maximized window
+20:07:08.858 [main] INFO  - In the MakeMyTrip Website
+20:07:11.306 [main] INFO  - Clicked on Cabs option
+20:07:13.726 [main] INFO  - Going to makemytrip home page
+20:07:23.685 [main] INFO  - Going to makemytrip home page
+20:07:23.845 [main] INFO  - maximized window
+20:07:26.213 [main] INFO  - Going to makemytrip home page
+20:07:26.364 [main] INFO  - maximized window
+20:07:27.428 [main] INFO  - Going to makemytrip home page
+20:07:27.579 [main] INFO  - maximized window
+20:07:36.721 [main] INFO  - Going to makemytrip home page
+20:07:36.861 [main] INFO  - maximized window
+20:07:39.134 [main] INFO  - Going to makemytrip home page
+20:07:39.261 [main] INFO  - maximized window
+20:07:48.136 [main] INFO  - Going to makemytrip home page
+20:07:48.288 [main] INFO  - maximized window
+20:08:29.039 [main] INFO  - Going to makemytrip home page
+20:08:29.194 [main] INFO  - maximized window
+20:08:34.661 [main] INFO  - Clicking on the cab option
+20:08:35.808 [main] INFO  - Clicked on Cabs option
+20:08:38.489 [main] INFO  - Clicking on the cab option
+20:08:38.937 [main] INFO  - Clicked one way outstation cab
+20:08:39.600 [main] INFO  - Selecting From
+20:08:43.769 [main] INFO  - Selected Delhi
+20:08:44.376 [main] INFO  - Going to makemytrip home page
+20:08:44.545 [main] INFO  - maximized window
+20:08:44.601 [main] INFO  - Selecting To
+20:08:58.807 [main] INFO  - Going to makemytrip home page
+20:08:58.939 [main] INFO  - maximized window

@@ -58,8 +58,8 @@ public static WebDriver initilizeBrowser() throws IOException
 		        System.out.println("No matching browser");
 		     }
       
-       driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"),capabilities);
-		
+      driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"),capabilities);
+		//driver = new RemoteWebDriver(new URL("http://192.168.1.7:4444"),capabilities);
 	}
 	else if(getProperties().getProperty("execution_env").equalsIgnoreCase("local"))
 		{
@@ -103,24 +103,24 @@ public static Logger getLogger()
 	return logger;
 }
 
-public static String randomeString()
-{
-	String generatedString=RandomStringUtils.randomAlphabetic(5);
-	return generatedString;
-}
-
-
-public static String randomeNumber()
-{
-	String generatedString=RandomStringUtils.randomNumeric(10);
-	return generatedString;
-}
-
-	
-public static String randomAlphaNumeric()
-{
-String str=RandomStringUtils.randomAlphabetic(5);
-String num=RandomStringUtils.randomNumeric(10);
-return str+num;
-}
+//public static String randomeString()
+//{
+//	String generatedString=RandomStringUtils.randomAlphabetic(5);
+//	return generatedString;
+//}
+//
+//
+//public static String randomeNumber()
+//{
+//	String generatedString=RandomStringUtils.randomNumeric(10);
+//	return generatedString;
+//}
+//
+//	
+//public static String randomAlphaNumeric()
+//{
+//String str=RandomStringUtils.randomAlphabetic(5);
+//String num=RandomStringUtils.randomNumeric(10);
+//return str+num;
+//}
 }

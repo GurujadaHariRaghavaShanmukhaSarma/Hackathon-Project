@@ -10,7 +10,6 @@ import java.util.Date;
 import java.util.Properties;
 
 import org.apache.commons.io.FileUtils;
-import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
@@ -80,7 +79,7 @@ public class BaseClass {
 			default: System.out.println("No matching browser.."); return;
 			}
 			
-			driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), capabilities);
+			driver = new RemoteWebDriver(new URL("http://192.168.84.204:4444"), capabilities);
 			
 		    }
 		else if(p.getProperty("execution_env").equalsIgnoreCase("local"))
@@ -121,25 +120,25 @@ public class BaseClass {
 	}
 	
 
-	public String randomeString()
-	{
-		String generatedString=RandomStringUtils.randomAlphabetic(5);
-		return generatedString;
-	}
-	
-	public String randomeNumber()
-	{
-		String generatedString=RandomStringUtils.randomNumeric(10);
-		return generatedString;
-	}
-	
-	public String randomAlphaNumeric()
-	{
-		String str=RandomStringUtils.randomAlphabetic(3);
-		String num=RandomStringUtils.randomNumeric(3);
-		
-		return (str+"@"+num);
-	}
+//	public String randomeString()
+//	{
+//		String generatedString=RandomStringUtils.randomAlphabetic(5);
+//		return generatedString;
+//	}
+//	
+//	public String randomeNumber()
+//	{
+//		String generatedString=RandomStringUtils.randomNumeric(10);
+//		return generatedString;
+//	}
+//	
+//	public String randomAlphaNumeric()
+//	{
+//		String str=RandomStringUtils.randomAlphabetic(3);
+//		String num=RandomStringUtils.randomNumeric(3);
+//		
+//		return (str+"@"+num);
+//	}
 	
 	public String captureScreen(String tname) throws IOException {
 

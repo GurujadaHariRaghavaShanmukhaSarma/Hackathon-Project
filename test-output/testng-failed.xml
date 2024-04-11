@@ -8,22 +8,24 @@
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="TestCases.TC_01_LowestCabDetails">
+      <class name="TestCases.TC_04_Hotels_Section">
+        <methods>
+          <include name="click_on_roomsandguests"/>
+          <include name="setup"/>
+          <include name="click_on_upto4rooms"/>
+          <include name="click_on_hotels_icon"/>
+          <include name="click_on_adultsdropdown_printallnumbers"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestCases.TC_04_Hotels_Section -->
+      <class name="TestCases.TC_02_SendingInvalidEmail">
         <methods>
           <include name="click_on_caboption"/>
-          <include name="lowest_cab_details"/>
           <include name="setup"/>
-          <include name="user_selecting_date"/>
-          <include name="user_selecting_from"/>
-          <include name="user_selecting_suv"/>
-          <include name="user_selecting_lowtohighprice"/>
-          <include name="click_on_oneway_outstation"/>
-          <include name="user_selecting_to"/>
           <include name="user_clicking_search"/>
           <include name="tearDown"/>
-          <include name="user_selecting_time"/>
         </methods>
-      </class> <!-- TestCases.TC_01_LowestCabDetails -->
+      </class> <!-- TestCases.TC_02_SendingInvalidEmail -->
     </classes>
   </test> <!-- Test1(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -12,10 +12,10 @@
 		<parameter name="browser" value="chrome" />
 		
     <classes>
-     <class name="TestCases.TC_01_LowestCabDetails"/>
-      <!--<class name="TestCases.TC_02_SendingInvalidEmail"/>
+      <class name="TestCases.TC_01_LowestCabDetails"/>
+      <class name="TestCases.TC_02_SendingInvalidEmail"/>
       <class name="TestCases.TC_03_SendingValidEmail"/>
-      <class name="TestCases.TC_04_Hotels_Section"/> -->
+      <class name="TestCases.TC_04_Hotels_Section"/>
       
     </classes>
     
